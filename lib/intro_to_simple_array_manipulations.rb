@@ -37,7 +37,7 @@ end
 
 def using_insert(array, element)
   new_array = using_insert(list_of_programming_languages, another_language)
-  array.insert
+  array.insert(4)
 end
   
 
