@@ -52,7 +52,8 @@ def using_delete(array, no_offense_steven)
 end
 
 def using_delete_at(array, deleted_robot)
-  array.
+  array.delete_at(1)
+end
   
 
 
